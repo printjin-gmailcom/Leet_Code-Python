@@ -10,3 +10,6 @@
 
 ## **기술 스택**  
 - **Python**
+
+## **관련 사이트**
+https://leetcode.com/
